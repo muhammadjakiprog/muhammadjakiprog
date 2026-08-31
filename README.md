@@ -9,39 +9,42 @@ Username      : @muhammadjakiprog
 Location      : Indonesia
 
 
-Misi
+Mission
 ────────────────────────────────────────────────────────────
 
-Merancang dan membangun perangkat lunak
-yang andal, efisien, serta mudah dipelihara,
-dengan fokus pada kualitas, performa, dan keberlanjutan.
+Merancang dan membangun perangkat lunak yang andal,
+efisien, mudah dipelihara, serta berkelanjutan,
+dengan fokus pada kualitas, performa, dan reliability.
 
-Keahlian
+
+Expertise
 ────────────────────────────────────────────────────────────
 
-• Software Architecture
-• High-Performance Systems
 • Linux System Administration
 
-Fokus Saat Ini
+
+Current Focus
 ────────────────────────────────────────────────────────────
 
-→ Meningkatkan performa, stabilitas, dan efisiensi aplikasi web
+→ Meningkatkan performa, stabilitas, dan efisiensi
+  aplikasi web
 
-Website
+
+Projects
 ────────────────────────────────────────────────────────────
 
-Proyek Klien
+Client Projects
 
-→ [ Coming Soon ]
+→ Coming Soon
 
-Proyek Pribadi
+Personal Projects
 
-→ Portofolio        [ Coming Soon ]
+→ Portfolio       [ Coming Soon ]
 
-→ Blog              [ Coming Soon ]
+→ Blog            [ Coming Soon ]
 
-Prinsip Rekayasa
+
+Engineering Principles
 ────────────────────────────────────────────────────────────
 
 01. Kesederhanaan menghasilkan skalabilitas.
@@ -56,25 +59,26 @@ Prinsip Rekayasa
 
 06. Bangun perangkat lunak yang berkelanjutan.
 
-Status Saat Ini
+
+Current Status
 ────────────────────────────────────────────────────────────
 
-Status        : Aktif
+Status        : Active
 
-Fokus         : Optimasi Performa Website
+Focus         : Web Performance Optimization
 
-Pendalaman    : Linux Tingkat Lanjut
+Deepening     : Advanced Linux System Administration
 
-Kolaborasi    : Terbuka untuk berdiskusi
+Collaboration : Open to discussion
+
 
 Links
 ────────────────────────────────────────────────────────────
 
 GitHub        : https://github.com/muhammadjakiprog
-
 Instagram     : https://instagram.com/muhammadjakiprog
-
 Portfolio     : [ Coming Soon ]
+
 
 Exit Status
 ────────────────────────────────────────────────────────────
@@ -83,7 +87,3 @@ Process finished successfully.
 
 Exit code: 0
 ```
-
-## Hubungi Saya
-
-Instagram → https://instagram.com/muhammadjakiprog
