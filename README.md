@@ -20,7 +20,7 @@ dengan fokus pada kualitas, performa, dan reliability.
 Expertise
 ────────────────────────────────────────────────────────────
 
-• Linux System Administration
+• Website Development
 
 
 Current Focus
@@ -67,7 +67,7 @@ Status        : Active
 
 Focus         : Web Performance Optimization
 
-Deepening     : Advanced Linux System Administration
+Deepening     : Full-Stack Web Development
 
 Collaboration : Open to discussion
 
